@@ -37,16 +37,4 @@ Hospital Management System (HMS) is a web-based application designed to streamli
 - **Admin Dashboard**: Access the admin dashboard to manage patients, staff, appointments, and other functionalities.
 - **Patient Portal**: Allow patients to register, book appointments, view medical records, and manage their profiles.
 
-## Contributors:
-- List of contributors or credits if applicable.
-
-## License:
-- Specify the license under which the HMS application is distributed (e.g., MIT License, GNU General Public License).
-
-## Support:
-- Provide contact information or links for obtaining support or assistance with the HMS application.
-
-## Additional Notes:
-- Any additional notes, instructions, or considerations for users or developers.
-
 ---
